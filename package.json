@@ -34,7 +34,7 @@
     "forever": "0.11.1",
     "gridfs-stream": "0.5.3",
     "lodash": "2.4.1",
-    "meanio": "file:../../../../../var/folders/m8/sdmqj8n17nb53g6j30f3dnmm0000gp/T/npm-13622-d80c207e/1426708226660-0.8949410242494196/c5f958225ef317e70277ade93760d0e3efa1837e",
+    "meanio": "0.7.2",
     "mongo": "^0.1.0",
     "mongoose": "3.8.24",
     "morgan": "1.5.0",
